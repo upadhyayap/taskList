@@ -1,0 +1,26 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "Task list tearning project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upadhyayap/taskList.git"
+  },
+  "keywords": [
+    "tasklist"
+  ],
+  "author": "Anand upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upadhyayap/taskList/issues"
+  },
+  "homepage": "https://github.com/upadhyayap/taskList#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
